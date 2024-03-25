@@ -1,6 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T02:59:01.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.0.6" etag="hvLoRiAEQB7ojb3osu0y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T03:48:37.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="8WQZKl3M41P2F1UkFW6-" version="24.1.0" type="github" pages="2">
   <diagram name="Trang-1" id="dZn3X9tXejLknl1kfypv">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7YSk7QFEfXLTueip6EEd" name="Trang-2">
+    <mxGraphModel dx="1002" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
