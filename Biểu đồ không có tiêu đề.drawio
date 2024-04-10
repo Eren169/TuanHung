@@ -1,81 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T04:03:03.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="BTAHg-GGNLd_ewAa77x0" version="24.2.3" type="github">
-  <diagram name="Trang-1" id="E1uZ9uwiheuGcPhIJEWW">
-    <mxGraphModel dx="1750" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-04-10T07:01:19.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.3" etag="vsPvmh5dKQKM0Qcq6dHL" type="github">
+  <diagram name="Trang-1" id="w6KKd_s382MbYnNhNppY">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="75DIeckWCZvRksRZ87Gn-1" value="Nhân Viên" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-607" y="174" width="161" height="237" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-2" value="+ Tên đăng nhập&lt;div&gt;+ Tên Đầy đủ&lt;/div&gt;&lt;div&gt;+ Mật Khẩu&lt;/div&gt;&lt;div&gt;+ Quyền truy cập&lt;/div&gt;&lt;div&gt;+ Email&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-1">
-          <mxGeometry y="26" width="161" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-1">
-          <mxGeometry y="124" width="161" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-4" value="+ Thông tin đăng ký&lt;div&gt;+ Thông Tin đăng nhập&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-1">
-          <mxGeometry y="132" width="161" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-11" value="Quản lý sản phẩm" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="195" width="160" height="239" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-12" value="+ ID sản phảm&lt;div&gt;+ Tên sản phẩm&lt;/div&gt;&lt;div&gt;+ Mô tả sản phẩm&lt;/div&gt;&lt;div&gt;+ Đơn vị tính&lt;/div&gt;&lt;div&gt;+ Số lượng tồn kho&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ Giá Sản phẩm&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-11">
-          <mxGeometry y="26" width="160" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-13" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-11">
-          <mxGeometry y="124" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-14" value="+ Cập nhật thông tin&lt;div&gt;+ Xóa sản phẩm&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-11">
-          <mxGeometry y="132" width="160" height="107" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-15" value="Quản lý xuất" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=27;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="176" width="160" height="269" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-16" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+Id xuất kho&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Ngày xuất kho&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ ID sản phảm&lt;/div&gt;&lt;div&gt;+ Tên sản phẩm&lt;/div&gt;&lt;div&gt;+ Mặt hàng&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ Số lượng&amp;nbsp;&lt;/div&gt;&lt;div&gt;+Giá tổng&lt;/div&gt;&lt;div&gt;+ Mã Khách hàng&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-15">
-          <mxGeometry y="27" width="160" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-15">
-          <mxGeometry y="181" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-18" value="+ Ghi nhận xuất&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-15">
-          <mxGeometry y="189" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-19" value="Quản lý khách hàng" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="33" y="537" width="160" height="151" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-20" value="+ ID khách hàng&amp;nbsp;&lt;div&gt;+ Tên khách hàng&lt;/div&gt;&lt;div&gt;+ Email&lt;/div&gt;&lt;div&gt;+ SDT&lt;/div&gt;&lt;div&gt;+ Địa chỉ&amp;nbsp;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-19">
-          <mxGeometry y="26" width="160" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-19">
-          <mxGeometry y="114" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-22" value="+ Thông tin khách hàng" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-19">
-          <mxGeometry y="122" width="160" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-27" value="Hệ thống quản lý&amp;nbsp;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-624" y="560" width="219" height="167" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-28" value="+ Quản lý nhân viên" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-27">
-          <mxGeometry y="26" width="219" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-29" value="+ Quản lý sản phẩm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-27">
-          <mxGeometry y="52" width="219" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-30" value="+ Quản lý xuất / nhập hàng&lt;div&gt;&lt;br&gt;&lt;div&gt;+ Quản lý khách hàng&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ Tạo báo cáo và thống kê&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-27">
-          <mxGeometry y="78" width="219" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-32" value="Quản lý Nhập" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=27;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="513" width="160" height="269" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-33" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+Id nhập kho&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ Ngày nhập kho&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ ID sản phảm&lt;/div&gt;&lt;div&gt;+ Tên sản phẩm&lt;/div&gt;&lt;div&gt;+ Mặt hàng&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ Số lượng&amp;nbsp;&lt;/div&gt;&lt;div&gt;+Giá tổng&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-32">
-          <mxGeometry y="27" width="160" height="154" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-32">
-          <mxGeometry y="181" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="75DIeckWCZvRksRZ87Gn-35" value="+ Ghi nhận nhập&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="75DIeckWCZvRksRZ87Gn-32">
-          <mxGeometry y="189" width="160" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
